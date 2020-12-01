@@ -1,0 +1,8 @@
+gmail: sterng29@gmail.com/Singapore-
+github: /GithubSingapore-1
+
+
+www CNAME   N/A     ext-sq.squarespace.com
+@   A       N/A     198.185.159.144
+@   A       N/A     198.185.159.145
+@   A       N/A     198.49.23.144
